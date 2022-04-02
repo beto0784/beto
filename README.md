@@ -1,2 +1,0 @@
-# beto
-Meu site pessoal
